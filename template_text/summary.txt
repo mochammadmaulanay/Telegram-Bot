@@ -1,0 +1,5 @@
+Reporting Facebook ads campaign performance for Campaign ID ${CAMPAIGN_ID} from ${START_DATE} to ${END_DATE}:
+
+Total spent: ${TOTAL_SPENT} 
+Total conversion: ${TOTAL_CONVERSION}
+Cost per conversion gained: ${CPC}

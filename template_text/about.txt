@@ -1,0 +1,5 @@
+I was developed by *${STUDENT_NAME} - ${BATCH_ACADEMY}* as [Algoritma Academy](https://algorit.ma/) Data Analytics Specialization capstone project.
+
+The data is static and downloaded from [Kaggle](https://www.kaggle.com/madislemsalu/facebook-ad-campaign) provided by [Madis_Lemsalu](https://www.kaggle.com/madislemsalu).
+
+Please find the complete script on [GitHub](${GITHUB_REPO_LINK})

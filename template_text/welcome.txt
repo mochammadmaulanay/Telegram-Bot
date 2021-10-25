@@ -1,0 +1,11 @@
+Hello *${FULL_NAME}*, I can help you to provide a report on Facebook daily ads for different marketing campaigns.
+
+You can control me by sending these commands:
+
+*Main Functionality*
+/summary - Generate text report for selected campaign ID
+/plot - Visualize report per age group for selected campaign ID
+
+*Information*
+/help - List of available commands
+/about - About me

@@ -1,0 +1,1 @@
+This is an example file. You can substitute a key with a value: ${KEY}. Try to read this file using Python.

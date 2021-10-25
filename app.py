@@ -21,7 +21,7 @@ def webhook():
    heroku_app_name = "dacp-phoenix-maulana-telebot"
 
    # NOTE: You need to use a publically available URL that the Telegram servers can reach.
-   bot.set_webhook(url=f'https://dacp-phoenix-maulana-telebot.herokuapp.com/.herokuapp.com/{TOKEN}')
+   bot.set_webhook(url=f'https://{heroku_app_name}.herokuapp.com/{TOKEN}')
    return "Bot is running", 200
 
 if __name__ == "__main__":
